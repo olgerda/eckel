@@ -1,0 +1,4 @@
+DFLAG = -DEBUG
+.SUFFIXES: .cpp
+.cpp: g++ $(DFLAG) $<
+31:

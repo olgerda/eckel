@@ -1,0 +1,1 @@
+float (*(*fp)(int))(char)
